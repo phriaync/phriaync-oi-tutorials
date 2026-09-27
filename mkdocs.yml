@@ -1,0 +1,27 @@
+site_name: ph的题解区
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.10/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.10/contrib/auto-render.min.js
+  - javascripts/katex.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.10/katex.min.css
+
+nav:
+  - 洛谷:
+    - P17474: luogu/p17474.md
+    - P17479: luogu/p17479.md
+    - P17480: luogu/p17480.md
+    - P17481: luogu/p17481.md
+    - P17484: luogu/p17484.md
