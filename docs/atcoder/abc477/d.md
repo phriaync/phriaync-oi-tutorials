@@ -1,4 +1,4 @@
-# [Masking Tape](https://atcoder.jp/contests/abc477/tasks/abc477_d)
+# [AT_abc477_d Masking Tape](https://atcoder.jp/contests/abc477/tasks/abc477_d)
 
 考虑仅在盖板以及结束时更新方格颜色，因为其他时刻的更新一定会被覆盖。
 

@@ -25,3 +25,11 @@ nav:
     - P17480: luogu/p17480.md
     - P17481: luogu/p17481.md
     - P17484: luogu/p17484.md
+  - atcoder:
+    - abc477:
+      - a: atcoder/abc477/a.md
+      - b: atcoder/abc477/b.md
+      - c: atcoder/abc477/c.md
+      - d: atcoder/abc477/d.md
+      - e: atcoder/abc477/e.md
+      - f: atcoder/abc477/f.md
