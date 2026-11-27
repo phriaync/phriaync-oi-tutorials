@@ -21,3 +21,4 @@ extra_css:
 nav:
   - 洛谷:
     - B3636: luogu/b3636.md
+    - P9246: luogu/p9246.md
